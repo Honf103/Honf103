@@ -2,9 +2,9 @@
 
 Contact me:   [![hoangvohuy851@gmail.com](https://img.shields.io/badge/email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hoangvohuy851@gmail.com) 
 
-🎓 I’m currently studying at University of Information Technology (UIT), Computer Engineering faculity.<br>
+🎓 I’m currently studying at University of Information Technology (UIT), Computer Engineering faculty.<br>
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### A little more about me...  
 
 ```C++
  struct Hoang {
