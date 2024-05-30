@@ -1,19 +1,18 @@
-## Have good days bro, I'm Hoang, glass you are here to visit my github
+# Have good days bro, I'm Hoang, glad you are here to visit my GitHub
 
-Contact me:   [![hoangvohuy851@gmail.com](https://img.shields.io/badge/email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hoangvohuy851@gmail.com) 
+Contact me: [![Email](https://img.shields.io/badge/email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
-🎓 I’m currently studying at University of Information Technology (UIT), Computer Engineering faculty.<br>
+🌐 I’m currently studying at University of Information Technology (UIT), Computer Engineering faculty.
 
-### A little more about me...  
+## A little more about me...
 
-```C++
- struct Hoang {
+```cpp
+struct Hoang {
     std::string Fullname = "Vo_Huy_Hoang";
     char Graduate[3] = {'U', 'I', 'T'};
     std::string code = "C++, C, Python, html/css";
-    std::string Tech = "ESP32/8266, Arduino, Machine learning";
+    std::string Tech = "ESP32/8266, Arduino, Electronics";
 };
-
 
 ```
 
