@@ -1,23 +1,24 @@
-# Hiiii, Kiet iz me: ![cat](https://emojipedia-us.s3.amazonaws.com/source/skype/289/cat-face_1f431.png)
+# Hiiii, Kiet iz me: <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+🔭 I’m currently studying at UIT<br>
 
-🧑‍🎓 I’m currently studying at UIT
-
-## A little more about me...
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
 const kiet = {
   pronouns: "he" | "him",
-  code: ["Python", "C#", "C++", "JS", ...],
+  code: ["Python", "C#", "C++", "JS",...],
   tools: ["Docker", "Jenkins", "Terraform", "PuTTY", ...],
   cloud: "AWS",
   challenge: "Graduate from UIT"
-};
+}
+```
+
+[![](https://visitcount.itsvg.in/api?id=K-izme&icon=5&color=1)](https://visitcount.itsvg.in)
 
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<em><b></b> Keep calm and stay positive</b> 😄</em>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Honf103&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
