@@ -1,6 +1,6 @@
 # Have good days bro, I'm Hoang, look be good when you visit my GitHub
 
-Contact me by email: [![Email](https://img.shields.io/badge/email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+Contact me by email: [![hoangvohuy851@gmail.com](https://img.shields.io/badge/email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 🔭 I’m currently studying at UIT<br>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
