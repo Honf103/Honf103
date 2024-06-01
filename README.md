@@ -12,6 +12,7 @@ struct Hoang {
     char Graduate[3] = {'U', 'I', 'T'};
     std::string code = "C++, C, Python, html/css";
     std::string Tech = "ESP32/8266, Arduino, Electronics";
+    std::string Protocol = "UART, I2C, CAN, MQTT,...";
 };
 
 ```
