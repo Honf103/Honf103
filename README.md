@@ -2,7 +2,7 @@
 
 Contact me: [![Email](https://img.shields.io/badge/email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
-🌐 I’m currently studying at University of Information Technology (UIT), Computer Engineering faculty.
+🌐 I’m graduated at University of Information Technology - Viet Nam National University (Bachelor), Computer Engineering faculty.
 
 ## A little more about me...
 
