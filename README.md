@@ -9,10 +9,9 @@ Contact me: [![Email](https://img.shields.io/badge/email-D14836?style=flat&logo=
 ```cpp
 struct Hoang {
     std::string Fullname = "Vo_Huy_Hoang";
-    char Graduate[3] = {'U', 'I', 'T'};
+    char Master[4] = {'N', 'C', 'TU', 'TAIWAN'};
     std::string code = "C++, C, Python, html/css";
-    std::string Tech = "ESP32/8266, Arduino, Electronics";
-    std::string Protocol = "UART, I2C, CAN, MQTT,...";
+    std::string Tech = "ESP32/8266, Arduino, Electronics, Machine Learning, Pytorch";
 };
 
 ```
