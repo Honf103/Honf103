@@ -11,7 +11,7 @@ struct Hoang {
     std::string Fullname = "Vo_Huy_Hoang";
     char Master[4] = {'N', 'C', 'U', 'TAIWAN'};
     std::string code = "C++, C, Python";
-    std::string Tech = "Ưlectronics, Machine Learning, Pytorch";
+    std::string Tech = "Machine Learning, Pytorch";
 };
 
 ```
