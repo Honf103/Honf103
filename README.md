@@ -8,10 +8,9 @@ Contact me: [![Email](https://img.shields.io/badge/email-D14836?style=flat&logo=
 
 ```cpp
 struct Hoang {
-    std::string Fullname = "Vo_Huy_Hoang";
+    std::string Fullname = "Vo_Huy_Hoang (Harry)";
     char Master[4] = {'N', 'C', 'U', 'TAIWAN'};
-    std::string code = "C++, C, Python";
-    std::string Tech = "Machine Learning, Pytorch";
+    std::string Tech = "Python, Transformer, Hugging Face, Analyze Report";
 };
 
 ```
