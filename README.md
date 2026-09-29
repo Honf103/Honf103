@@ -1,4 +1,4 @@
-# Have good days bro, I'm Hoang, glad you are here to visit my GitHub
+# Have good days, I'm Hoang, glad you are here to visit my GitHub
 
 Contact me: [![Email](https://img.shields.io/badge/email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
